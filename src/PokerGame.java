@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class PokerGame {git init
+public class PokerGame {
     public static void main(String[] args) {
         try {
             // Создаем дилера
